@@ -1,0 +1,15 @@
+{
+  "name": "docsify-boilerplate",
+  "version": "0.0.1",
+  "description": "Get the right tool to get started on writing documentation for your app/ service or your own blog.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "author": "Nanda Kishor Jeripothula",
+  "devDependencies": {
+    "docsify-cli": "^4.3.0"
+  }
+}
