@@ -1,12 +1,10 @@
-# Docsify Boilerplate
+# Hungry Thoughts
 
-<img width="150" src="static/media/logo.svg" alt="app logo" />
+<img width="150" src="static/media/logo.svg" alt="app logo">
 
-> Write down your app introduction
+> Write down your yhooou introduction
 
-- :racehorse: All Emojis works here :dromedary_camel:
-
-<!-- for smooth navigation please use first heading in readme.md in cebab case here as an id for get-started -->
+* :racehorse: All Emojis works here :dromedary\_camel:
 
 [Link 1](pages/link1.md)
 [Link 2](pages/link2.md)
