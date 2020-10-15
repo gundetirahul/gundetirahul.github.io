@@ -2,9 +2,9 @@
 
 Indian economy is at exception according to every theory and practical approach... So is Mr. Market... The chairman of NSE  and Chief at SEBI are worried about the ongoing conditions... But situations continue to persist and rise higher and higher only because to make themselves secure from the on coming disaster... The standard companies are delisting and rest are opting to buyback their shares... The retail segment is pouring in money and new players and dominant players continue to play with these people money😌🤓
 
----
-## **10-10-2020 : Saturday.**
+- - -
 
+## **10-10-2020 : Saturday.**
 
 "You have to live your life if you’re going to do original work. Your work will come out of an authentic life, and if you suppress all of your most passionate impulses in the service of an art that has not yet declared itself, you’re making a terrible mistake.
 
@@ -14,8 +14,10 @@ When I was young I led the life I thought writers were supposed to lead, in whic
 
 Read more in this Q&A with the poet: [https://www.pw.org/content/internal\_tapestries](https://www.pw.org/content/internal_tapestries)
 
----
+- - -
+
 ## 09-10-2020: friday
+
 ```
                             We
                            look
