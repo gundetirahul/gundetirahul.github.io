@@ -2,8 +2,8 @@
 <br>
 > Just started by blog journey! I post everything I find interesting and all I learn on a dily bais.Thanks for your support
 
-<br/>
-* :racehorse: All Emojis works here :dromedary\_camel:
+<br>
+* :racehorse: All Emojis works here :dromedary\_camel: ;
 
 [Link 1](pages/link1.md)
 [Link 2](pages/link2.md)
