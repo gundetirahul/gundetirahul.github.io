@@ -1,24 +1,24 @@
-# Docsify Boilerplate Homepage
+## Why I started this blog
 
-> Hey congrats, you are a one step ahead of building your own docs-site/ blog :tada:
+> It's just something I do for timepass
 
 [![Made with Docsify](https://img.shields.io/badge/made_with-docsify.js-blue.svg)](https://docsify.js.org/)
 
-## What is this boilerplate all about?
+## What can you find here ?
 
-Get the right tool to get started on writing documentation for your app/ service or your own blog.
+This is a go to place for knowing anythin interesting on the active topics right from financial literact to politics to economics to psucology to food to memes.
 
-?> This boilerplate will give you ready made and customizable code, ready to deploy
+?> You can find the first hand data and insifght of different news and instead of spending alot of time just you can directly come her eand get all the updates in 30 min
 
-## Requirements
+## Topics to be covered
 
-* Local Development(Any one of following would suffice the need)
-    * NodeJS with `yarn` or `npm` for local host
-    * Any local server that can host files
-    * VS Code live host
-* Deployment
-    * Netlify or gh-pages or other as per your preferences
+* Financial Literacy(FC to stock market to own business)
+    *  personalities like`junjunwala` to `Damani` 
+    * stocks from tcs to infy
+    * future updates
+* Mees
+    * all wonderful mems areshared
 
 - - -
 
-Made in :heart: with Docsify
+Made with :heart: in India  

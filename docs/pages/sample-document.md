@@ -1,6 +1,6 @@
 ## Lorem Ipsum
 
-##### _"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."_
+##### *"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."*
 
 ###### "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 
@@ -14,7 +14,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
 ### Where does it come from?
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of _"de Finibus Bonorum et Malorum"_ (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of *"de Finibus Bonorum et Malorum"* (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
@@ -24,41 +24,41 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 ### Important Block
 
-```md
+``` md
 Name: User
 Location : Earth
 It uses a dictionary of over 200 Latin words,
 ```
 
----
+- - -
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-- Aliquam vitae lorem vitae turpis luctus pulvinar vitae vel velit.
-- Cras efficitur massa quis ipsum vehicula, et molestie enim tempus.
-- Phasellus aliquam risus dictum arcu porta scelerisque.
-- Donec vel leo convallis, imperdiet felis in, consequat sapien.
-- Integer eu risus at neque consectetur elementum et quis risus.
-- Fusce condimentum lorem vel tortor ultricies, sed tempus lectus vulputate.
+* Aliquam vitae lorem vitae turpis luctus pulvinar vitae vel velit.
+* Cras efficitur massa quis ipsum vehicula, et molestie enim tempus.
+* Phasellus aliquam risus dictum arcu porta scelerisque.
+* Donec vel leo convallis, imperdiet felis in, consequat sapien.
+* Integer eu risus at neque consectetur elementum et quis risus.
+* Fusce condimentum lorem vel tortor ultricies, sed tempus lectus vulputate.
 
 ?> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 1. Phasellus interdum arcu at arcu placerat finibus.
-1. Vivamus ac massa in nulla finibus vestibulum.
-1. Vestibulum non dolor ac tortor laoreet porta non ut nulla.
-1. Sed mattis velit venenatis dui pharetra luctus.
-1. Aliquam sed massa elementum, efficitur metus a, feugiat sapien.
-1. Praesent mattis odio sed orci venenatis, non sagittis dolor consectetur.
-1. Praesent faucibus orci nec maximus euismod.
+2. Vivamus ac massa in nulla finibus vestibulum.
+3. Vestibulum non dolor ac tortor laoreet porta non ut nulla.
+4. Sed mattis velit venenatis dui pharetra luctus.
+5. Aliquam sed massa elementum, efficitur metus a, feugiat sapien.
+6. Praesent mattis odio sed orci venenatis, non sagittis dolor consectetur.
+7. Praesent faucibus orci nec maximus euismod.
 
 !> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-- Phasellus interdum arcu at arcu placerat finibus.
-- Vivamus ac massa in nulla finibus vestibulum.
-- Vestibulum non dolor ac tortor laoreet porta non ut nulla.
-- Sed mattis velit venenatis dui pharetra luctus.
-- Aliquam sed massa elementum, efficitur metus a, feugiat sapien.
-- Praesent mattis odio sed orci venenatis, non sagittis dolor consectetur.
+* Phasellus interdum arcu at arcu placerat finibus.
+* Vivamus ac massa in nulla finibus vestibulum.
+* Vestibulum non dolor ac tortor laoreet porta non ut nulla.
+* Sed mattis velit venenatis dui pharetra luctus.
+* Aliquam sed massa elementum, efficitur metus a, feugiat sapien.
+* Praesent mattis odio sed orci venenatis, non sagittis dolor consectetur.
 
 ### Image
 
@@ -70,7 +70,7 @@ This is page cover
 
 ?> Flow with state diagram
 
-```mermaid
+``` mermaid
 stateDiagram
 [*] --> Still
 Still --> [*]
@@ -80,7 +80,7 @@ Moving --> Crash
 Crash --> [*]
 ```
 
-```mermaid
+``` mermaid
 graph LR
     A --- B
     B-->C[fa:fa-ban forbidden]
@@ -89,7 +89,7 @@ graph LR
 
 ?> Group diagrams
 
-```mermaid
+``` mermaid
  graph TD;
   A(Start)-->B(Do some stuff);
   B(Take me to github)-->C(do more);
@@ -102,9 +102,9 @@ This guide will break down the steps involved in the process, which can take any
 
 Below are the steps a company must undertake to go public via an IPO process:
 
-?> Time Line Support _Second one is link_
+?> Time Line Support *Second one is link*
 
-```mermaid
+``` mermaid
 graph TD;
 A(Select a bank)-->B(Due diligence and filings );
 B(Due diligence and filings)-->C(Pricing);
@@ -112,12 +112,11 @@ C(Pricing)-->D(Stabilization);
 C(Pricing)-->E(Transition);
 D(Stabilization)-->E(Transition);
 click B "http://www.github.com"
-
 ```
 
 !> Internal Routing example
 
-```mermaid
+``` mermaid
 graph TD;
 A(What is Lorem Ipsum)-->B(Why do we use it);
 B(Why do we use it)-->C(Pricing);

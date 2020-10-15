@@ -1,4 +1,4 @@
-# Docsify Boilerplate Homepage
+# Docsify Boilerplate ieqih Homepage
 
 > Hey congrats, you are a one step ahead of building your own docs-site/ blog :tada:
 
