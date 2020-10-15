@@ -1,0 +1,1 @@
+heya... now we learn daily whas stock market is
